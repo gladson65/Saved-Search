@@ -6,7 +6,11 @@ function App() {
 
   return (
     <>
-      
+      <header>
+        <div className='search-container'>
+
+        </div>
+      </header>
     </>
   )
 }
